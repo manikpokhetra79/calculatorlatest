@@ -6,8 +6,8 @@ font-size: 20px;
 }
 #calculator-container{
     margin: auto;
-    margin-top: 80px;
-    width: 30%;
+    
+    width: 35%;
     background-color: lightgrey;
     border: 2px solid lightgrey;
     border-radius: 2px;
@@ -54,6 +54,7 @@ font-size: 20px;
     cursor: pointer;
     text-align: center;
     font-family: cursive;
+    min-height: 4.5rem;
 }
 .button:hover{
     background-color: rgb(25, 137, 230);
